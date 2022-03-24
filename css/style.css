@@ -1,0 +1,142 @@
+
+/* multiple 
+line 
+comment*/
+
+
+
+/* logo*/
+
+/*main content */
+.hero {
+	min-height: 500px;
+	text-align: center;
+	background-color: #001; 
+}
+.hero-content {
+	color: #fff;
+	padding-top: 150px;
+
+}
+
+.hero-content h1 {
+	font-size: 100px;
+	margin: 0;
+
+}
+.hero-content p { font-size: 50px;
+ }
+ .hero-content a {
+ 	display: inline-block;
+ 	color: #fff;
+ 	border: 3px solid #fff;
+ 	border-radius: 5px;
+ 	padding: 15px 30px;
+ 	margin-right: 20px;
+ 	text-decoration: none;
+ 	font-size: 30px;
+ }
+ .hero-content a:hover {
+ 	color: #001;
+ 	background-color: #fff;
+ }
+ /*site section*/
+ .site-section {
+ 	padding-bottom: 50px;
+ 	padding-top: 50px;
+ }
+ .site-section-secondary {
+ 	background: #EFEFEF;
+
+ }
+ .site-section-inside {
+ 	width: 80%;
+ 	max-width: 1200px;
+ 	margin: 0 auto;
+
+ }
+ .section-header {
+ 	text-align: center;
+ 	margin-bottom: 30px;
+
+ }
+ .section-header h2 {
+ 	font-size: 30px;
+ 	letter-spacing: 2px;
+ 	text-transform: uppercase;
+ 	font-weight: 300;
+ 	color: #777;}
+
+ 	/*feature boxes*/
+ .feature-box h5 {
+    font-weight: bold;
+    font-size: 20px;
+    color: #999;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0;    
+ }
+ .feature-box {
+ 	display:inline-block ;
+ 	width: 33%;
+ 	padding: 20px 30px;
+
+ }
+ .testimonial-box {
+ 	display: inline-block;
+ 	width: 33%;
+ 	padding: 20px 30px;
+ }
+ .testimonial-content {
+ 	background: #fff;
+ 	padding: 15px;
+ 	border-radius: 5px;
+ 	margin-bottom: 15px;
+ }
+ .testimonial-author img {
+ 	float: left;
+ 	width: 80px;
+ 	border-radius: 50%;
+ 	margin-right: 15px;
+ 	vertical-align: middle;
+
+ }
+ .testimonial-author h5 {
+ 	font-size: 20px;
+ 	margin: 0;
+ 	padding-top: 15px;
+
+ }
+ .testimonial-author span {
+ 	font-size: 15px;
+ }
+
+ /* hire me*/
+ .hire{
+ 	text-align: center;
+ 	margin-bottom: 30px;
+ }
+ .hire h1 {
+ 	font-size: 30px;
+ 	letter-spacing: 2px;
+ 	text-transform: uppercase;
+ 	font-weight:300 ;
+ 	color: #777;
+ }
+ .hire button {
+ 	background-color: #333;
+ 	color: #FFF;
+ 	padding: 10px 15px;
+ 	width: 20%;
+ 	border-radius: 10px;
+ }
+.hire button:hover{
+	background-color: #001;
+	color: #FFF;
+	cursor: pointer;
+}
+ 
+/*padding:  10px; all sides
+padding: 10px 20px 20px 10 px; top right bottom left
+padding 10px 20px; top and bottom*/
+
